@@ -1,0 +1,73 @@
+.square{
+    background: #fff;
+    border: 1px solid #999;
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 34px;
+    height: 34px;
+    margin-right: -1px;
+    margin-top: -4px;
+    padding: 0;
+    text-align: center;
+    width: 34px;
+    vertical-align: middle;
+}
+
+.board{
+    margin: 20px;
+}
+
+
+.game{
+    margin-top: 0;
+    min-width: 100vh;
+    min-height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    text-align: center;
+    margin:0 0 0 0 ;
+}
+
+h2{
+    text-align: center;
+    margin:0 0 0 0 ;
+}
+
+.game-info{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ol{
+    list-style-type: none;
+    padding-left: 10px;
+}
+
+li button{
+    background: #fff;
+    border: 1px solid #999;
+    padding: 0;
+    text-align: center;
+}
+
+.winner{
+    background: #fff;
+    font-size: 70px;
+    font-weight: bold;
+    line-height: 102px;
+    height: 100px;
+    text-align: center;
+    width: 100px;
+    vertical-align: middle;
+}
+
+.logo{
+    width: 200px;
+    margin-left: 300px;
+    text-align: center;
+}
